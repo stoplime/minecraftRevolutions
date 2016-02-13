@@ -1,0 +1,18 @@
+{
+  "asm_cable": 0,
+  "asm_manager": 1,
+  "asm_cable_ae": 2,
+  "asm_cable_block_gate": 3,
+  "asm_cable_bud": 4,
+  "asm_cable_camo": 5,
+  "asm_cable_cluster": 6,
+  "asm_cable_fluid_gate": 7,
+  "asm_cable_input": 8,
+  "asm_cable_output": 9,
+  "asm_cable_quantum": 10,
+  "asm_cable_relay": 11,
+  "asm_cable_rf": 12,
+  "asm_cable_sign": 13,
+  "asm_cable_valve": 14,
+  "asm_cable_void": 15
+}
